@@ -1,0 +1,12 @@
+[submodule "Arduino-IRremote"]
+	path = Arduino-IRremote
+	url = https://github.com/z3t0/Arduino-IRremote.git
+[submodule "Adafruit_LED_Backpack"]
+	path = Adafruit_LED_Backpack
+	url = https://github.com/adafruit/Adafruit_LED_Backpack.git
+[submodule "Adafruit-GFX-Library"]
+	path = Adafruit-GFX-Library
+	url = https://github.com/adafruit/Adafruit-GFX-Library.git
+[submodule "arduino-softpwm"]
+	path = arduino-softpwm
+	url = https://github.com/Palatis/arduino-softpwm.git
