@@ -1,5 +1,5 @@
 /*
- * timekeeper - a stand-up meeting Arduino timer
+ * standuino - a stand-up meeting Arduino timer
  */
 #include <Wire.h>
 #include <Adafruit_GFX.h>

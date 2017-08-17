@@ -1,5 +1,6 @@
-# timekeeper
-Arduino stand-up meeting timekeeper
+# Standuino
+Arduino stand-up meeting timer
 
 This is a work in progress, more info coming soon.
-![Circuit](timekeeper_bb.png)
+
+![Circuit](standuino_bb.png)
